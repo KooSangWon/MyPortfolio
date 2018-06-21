@@ -13,11 +13,11 @@
 
 <div class="tabs is-toggle is-fullwidth">
   <ul>
-    <li class="is-active">
-      <a>
+    <li>
+      <nuxt-link to="/">
         <span class="icon is-small"><i class="fas fa-home" aria-hidden="true"></i></span>
         <span>메인페이지</span>
-      </a>
+      </nuxt-link> 
     </li>
     <li>
       <nuxt-link to="/profile">
@@ -26,19 +26,21 @@
       </nuxt-link> 
     </li>
     <li>
-      <a>
+      <nuxt-link to="/work">
         <span class="icon is-small"><i class="fas fa-book" aria-hidden="true"></i></span>
         <span>자기개발</span>
-      </a>
+      </nuxt-link> 
     </li>
     <li>
-      <a>
+      <nuxt-link to="/award">
         <span class="icon is-small"><i class="far fa-file-star" aria-hidden="true"></i></span>
         <span>수상 이력</span>
-      </a>
+      </nuxt-link> 
     </li>
   </ul>
 </div>
+
+<nuxt/>
 
 <footer class="footer">
   <div class="content has-text-centered">

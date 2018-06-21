@@ -1,13 +1,30 @@
 <template>
   <section class="container">
-<div class="tile is-parent">
-        <article class="tile is-child notification is-info">
-          <p class="title">Middle tile</p>
-          <p class="subtitle">With an image</p>
-          <figure class="image is-4by3">
-            <img src="https://bulma.io/images/placeholders/640x480.png">
-          </figure>
-        </article>
-      </div>
-        </section>
+   <p class="title is-1 is-spaced">프로필</p>
+   
+    <table class="table">
+  <thead>
+    <tr>
+      <th><abbr title="Position">Name</abbr></th>
+      <th><abbr title="Played">Age</abbr></th>
+      <th><abbr title="Won">University</abbr></th>
+      <th><abbr title="Drawn">Major</abbr></th>
+      <th><abbr title="Lost">E-mail</abbr></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>구상원</th>
+      <td>25</td>
+      <td>Mokwon</td>
+      <td>Information and Communication</td>
+      <td>gsw0931@gmail.com</td>
+    </tr>
+    
+  </tbody>
+</table>
+   
+  </section>
 </template>
+
+
