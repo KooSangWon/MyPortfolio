@@ -1,56 +1,85 @@
 <template>
   <section class="container">
-   <p class="title is-1 is-spaced">자기개발</p>
+   <p class="title is-1 is-spaced">자기 개발</p>
 
-   <div class="box">
-  <article class="media">
-   
-
-<body>
-  <!--<section class="section">
-    <div class="container">
-      <h1 class="title">3학년</h1>
-      <br>
-      <h2 class="subtitle">
-        <strong>UI&UX </strong>, with 강다향, 황혜란, 신중혁, 임주찬
-        <br>
-        <img src="Main.png" alt="Image">
-      </h2>
-    </div>
-  </section>-->
-
-  <section class="hero is-dark">
+    <section class="hero is-dark">
   <div class="hero-body">
     <div class="container">
       <h1 class="title">
       3학년
       </h1>
-      <br>
-      <h2 class="subtitle">
-      UI&UX
-      </h2>
     </div>
   </div>
 </section>
-<br>
-<div>
-    <img src="Main.png" alt="Image"><img src="Set.png" alt="Image">
-</div>
-hi
 
-  
-</body>
-    
-    <!--<div class="media-content">
-      <div class="content">
-        <p>
-          <strong>Hi</strong>
-          <br>
-        Hello
-        </p>
-      </div>
-    </div>-->
-  </article>
+    <div class="tile is-ancestor">
+  <div class="tile is-8 is-vertical is-parent">
+    <div class="tile is-child box">
+       <div class="columns">
+    <div class="column">
+        <img src="Main.png" alt="Image">
+    </div>
+    <div class="column">
+        <img src="Set.png" alt="Image">
+    </div>
+</div>
+    </div>
+  </div>
+  <div class="tile is-parent">
+    <div class="tile is-child box">
+      <p class="title">UI&UX Design</p>
+    </div>
+  </div>
+</div>
+
+    <div class="tile is-ancestor">
+  <div class="tile is-8 is-vertical is-parent">
+    <div class="tile is-child box">
+       <div class="columns">
+    <div class="column">
+        <img src="Main.png" alt="Image">
+    </div>
+    <div class="column">
+        <img src="Set.png" alt="Image">
+    </div>
+</div>
+    </div>
+  </div>
+  <div class="tile is-parent">
+    <div class="tile is-child box">
+      <p class="title">UI&UX Design</p>
+    </div>
+  </div>
+</div>
+
+ <section class="hero is-dark">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+     4학년
+      </h1>
+    </div>
+  </div>
+</section>
+
+    <div class="tile is-ancestor">
+  <div class="tile is-8 is-vertical is-parent">
+    <div class="tile is-child box">
+       <div class="columns">
+    <div class="column">
+        <img src="Main.png" alt="Image">
+    </div>
+    <div class="column">
+        <img src="Set.png" alt="Image">
+    </div>
+</div>
+    </div>
+  </div>
+  <div class="tile is-parent">
+    <div class="tile is-child box">
+      <p class="title">UI&UX Design</p>
+    </div>
+  </div>
 </div>
 
   </section>
