@@ -1,6 +1,7 @@
 <template>
   <section class="container">
    <p class="title is-1 is-spaced">프로필</p>
+   <br>
    
    <div class="box">
   <article class="media">
