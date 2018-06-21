@@ -6,7 +6,7 @@
   <article class="media">
     <div class="media-left">
       <figure class="image is-128x128">
-        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+        <img src="profile.jpg" alt="Image">
       </figure>
     </div>
     <div class="media-content">
@@ -14,11 +14,12 @@
        <table class="table">
   <thead>
     <tr>
-      <th><abbr title="Position">Name</abbr></th>
-      <th><abbr title="Played">Age</abbr></th>
-      <th><abbr title="Won">University</abbr></th>
-      <th><abbr title="Drawn">Major</abbr></th>
-      <th><abbr title="Lost">E-mail</abbr></th>
+      <th><abbr title="Name">Name</abbr></th>
+      <th><abbr title="Age">Age</abbr></th>
+      <th><abbr title="University">University</abbr></th>
+      <th><abbr title="Major">Major</abbr></th>
+      <th><abbr title="Phone">Phone</abbr></th>
+      <th><abbr title="E-mail">E-mail</abbr></th>
     </tr>
   </thead>
   <tbody>
@@ -27,6 +28,7 @@
       <td>25</td>
       <td>Mokwon University</td>
       <td>Information and Communication</td>
+      <td>010.7697.6343</td>
       <td>gsw0931@gmail.com</td>
     </tr>
     
