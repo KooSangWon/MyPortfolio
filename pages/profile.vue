@@ -31,16 +31,28 @@
       <td>010.7697.6343</td>
       <td>gsw0931@gmail.com</td>
     </tr>
-    
   </tbody>
 </table>
-      </div>
-     
+    </div>
+
     </div>
   </article>
 </div>
 
+  <article class="message">
+    <div class="message-header">언어 이해도</div>
+      <div class="message-body">
+        <div id="chart"></div>
+      </div>
+    </article>
   </section>
 </template>
 
-
+<script>
+    import myBarChart from '~/plugins/chart';
+    export default{
+        mounted(){
+            if(process.client) {myBarChart('chart');}
+        }
+    };
+</script>

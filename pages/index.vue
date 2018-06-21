@@ -30,8 +30,7 @@
       <td>Information and Communication</td>
       <td>010.7697.6343</td>
       <td>gsw0931@gmail.com</td>
-    </tr>
-    
+    </tr> 
   </tbody>
 </table>
       </div>
