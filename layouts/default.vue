@@ -5,7 +5,7 @@
         <div class="container">
           <h1 class="title is-1">구상원의 포트폴리오</h1>
           <br>
-          <h2 class="subtitle">목원대학교 정보통신공학융합부</h2>
+          <h2 class="subtitle">목원대학교 정보통신융합공학부</h2>
         </div>
       </div>
     </div>

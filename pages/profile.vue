@@ -29,7 +29,7 @@
       <td>25</td>
       <td>Mokwon University</td>
       <td>Information and Communication</td>
-      <td>010.7697.6343</td>
+      <td>010.7697.**** </td>
       <td>gsw0931@gmail.com</td>
     </tr>
   </tbody>
