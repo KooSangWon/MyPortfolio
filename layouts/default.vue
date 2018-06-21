@@ -20,10 +20,10 @@
       </a>
     </li>
     <li>
-      <a>
+      <nuxt-link to="/profile">
         <span class="icon is-small"><i class="fas fa-user" aria-hidden="true"></i></span>
         <span>프로필</span>
-      </a>
+      </nuxt-link> 
     </li>
     <li>
       <a>

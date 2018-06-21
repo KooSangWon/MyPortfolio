@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-   <div class="tile is-parent">
+<div class="tile is-parent">
         <article class="tile is-child notification is-info">
           <p class="title">Middle tile</p>
           <p class="subtitle">With an image</p>
@@ -9,10 +9,5 @@
           </figure>
         </article>
       </div>
-  </section>
+        </section>
 </template>
-
-<script>
-
-</script>
-
