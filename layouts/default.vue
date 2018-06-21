@@ -33,7 +33,7 @@
     </li>
     <li>
       <nuxt-link to="/award">
-        <span class="icon is-small"><i class="far fa-file-star" aria-hidden="true"></i></span>
+        <span class="icon is-small"><i class="far fa-star" aria-hidden="true"></i></span>
         <span>수상 이력</span>
       </nuxt-link> 
     </li>

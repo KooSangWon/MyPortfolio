@@ -20,7 +20,7 @@
             <p>
               <strong>전자회로설계</strong>
             </p>
-            <strong>칫솔 타이머</strong> : 양치질을 3분동안 할 수 있도록 알람기능을 가진 칫솔
+            <strong>스마트 양치 타이머</strong> : 양치질을 3분동안 할 수 있도록 알람기능을 가진 칫솔
             <br>
           </div>
         </div>           
@@ -36,19 +36,19 @@
             <p>
               <strong>스마트UI&UX구현</strong>
             </p>
-            <strong>나의 냉장고 지킴이</strong> : 냉장고를 원활하게 관리하기 위한 어플리케이션
+            <strong>유통기한 관리</strong> : 냉장고를 원활하게 관리하기 위한 어플리케이션
             <br>
           </div>
           <div class="box">
             <p>
               <strong>통신시스템설계실습</strong>
             </p>
-             <strong>FIR필터를 이용한 소리파형</strong> : 아날로그 소리파일에 원하는 주파수 대역만큼 필터를 통과시켜 원하는 소리를 추출하는 Matlab 작품
+             <strong>FIR filter</strong> : 아날로그 소리파일에 원하는 주파수 대역만큼 필터를 통과시켜 원하는 소리를 추출하는 Matlab 작품
              <br>
           </div>
           <div class="box">
             <p>
-              <strong>UD워크숍</strong>
+              <strong>UD Workshop</strong>
             </p>
              <strong>간호사를 위한 자동수액주입기</strong> : 간호사들의 수액투여업무 일손을 돕고자 고안한 설계작품
              <br>
@@ -96,5 +96,3 @@
       </article>
   </section>
 </template>
-
-
